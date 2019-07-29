@@ -1,2 +1,2 @@
-class Home < ApplicationRecord
+class Page < ApplicationRecord
 end
